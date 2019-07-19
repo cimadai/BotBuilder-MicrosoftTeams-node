@@ -26,7 +26,7 @@
   "bots": [
     {
       "botId": "{YOUR_BOT_ID}",
-      "scopes": ["personal", "team"]
+      "scopes": ["personal", "team", "groupchat"]
     }
   ],
   "composeExtensions": [
